@@ -1,0 +1,13 @@
+{
+  "name": "Paudel Readymade Store",
+  "description": "Enterprise-grade, AI-powered Nepali e-commerce platform with manual payment verification and advanced admin dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Orchestration",
+    "Self-Healing System",
+    "Nepali Luxury Design"
+  ]
+}
